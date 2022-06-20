@@ -1,2 +1,2 @@
 # ConcatenandoStrings
- Código em Python que concatena nome, sobrenome e código para gerar um email.
+ Código em Python que concatena nome, sobrenome e código de aluno para gerar um email.
